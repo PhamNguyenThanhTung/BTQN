@@ -1,4 +1,76 @@
-
+1 x x off 0 x x
+2 x x off 0 x x
+3 x x off 0 x x
+4 x x off 0 x x
+5 x x off 0 x x
+6 x x off 0 x x
+7 x x off 0 x x
+8 x x off 0 x x
+9 x x off 0 x x
+10 x x off 0 x x
+11 x x off 0 x x
+12 x x off 0 x x
+13 x x off 0 x x
+14 x x off 0 x x
+15 x x off 0 x x
+16 x x off 0 x x
+17 x x off 0 x x
+18 x x off 0 x x
+19 x x off 0 x x
+20 x x off 0 x x
+21 x x off 0 x x
+22 x x off 0 x x
+23 x x off 0 x x
+24 x x off 0 x x
+25 x x off 0 x x
+26 x x off 0 x x
+27 x x off 0 x x
+28 x x off 0 x x
+29 x x off 0 x x
+30 x x off 0 x x
+31 x x off 0 x x
+32 x x off 0 x x
+33 x x off 0 x x
+34 x x off 0 x x
+35 x x off 0 x x
+36 x x off 0 x x
+37 x x off 0 x x
+38 x x off 0 x x
+39 x x off 0 x x
+40 x x off 0 x x
+41 x x on 0 x x
+42 x x off 0 x x
+43 x x off 2341 x x
+44 x x off 0 x x
+45 x x off 0 x x
+46 x x off 0 x x
+47 x x on 4324 x x
+48 x x off 0 x x
+49 x x off 0 x x
+50 x x off 0 x x
+51 x x off 0 x x
+52 x x off 0 x x
+53 x x off 0 x x
+54 x x off 0 x x
+55 x x off 0 x x
+56 x x off 0 x x
+57 x x off 0 x x
+58 x x off 0 x x
+59 x x off 0 x x
+60 x x off 0 x x
+61 x x off 0 x x
+62 x x off 0 x x
+63 x x off 0 x x
+64 x x off 0 x x
+65 x x off 0 x x
+66 x x off 0 x x
+67 x x off 0 x x
+68 x x off 0 x x
+69 x x off 0 x x
+70 x x off 0 x x
+-2024 13:35:29
+70 x x off 0 x x
+x
 
 
 
